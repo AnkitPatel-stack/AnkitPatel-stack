@@ -65,3 +65,60 @@ React, Node.js, Express, MongoDB, REST APIs
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,typescript,redux,firebase,git,github,bootstrap,materialui"/>
 
 </p>
+
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnkitPatel-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitPatel-stack&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitPatel-stack&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AnkitPatel-stack&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8"/>
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AnkitPatel-stack&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+# 💡 Currently Learning
+
+- ⚡ Advanced React Patterns
+- ⚡ Next.js
+- ⚡ TypeScript
+- ⚡ React Native
+- ⚡ System Design
+- ⚡ Docker
+- ⚡ AWS
+- ⚡ Scalable Backend Architecture
+
+---
+
+# 🎯 2026 Goals
+
+✅ Build Production Ready SaaS Projects
+
+✅ Contribute to Open Source
+
+✅ Crack Top Product Based Company
+
+✅ Become Expert Full Stack MERN Developer
+
+✅ Learn Cloud & DevOps
