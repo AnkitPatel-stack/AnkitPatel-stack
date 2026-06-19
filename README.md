@@ -133,3 +133,11 @@ Socket.io based live chat application
 <p align="center">
 💙 Crafted with passion by Ankit Patel
 </p>
+<p align="center"> <a href="https://drive.google.com/" target="_blank"> <img src="https://img.shields.io/badge/Download%20Resume-FF5722?style=for-the-badge&logo=googledrive&logoColor=white"/> </a> </p>
+<p align="center"> <a href="https://your-portfolio-link.com" target="_blank"> <img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </p>
+</p> <p align="center"> <a href="mailto:ankitpatellll782@gmail.com"> <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/ankit-patel-460974286"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/> </a> </p>
+
+<p align="center"> <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge"/> <img src="https://img.shields.io/badge/API-Express-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=for-the-badge"/> <img src="https://img.shields.io/badge/Cloud-VPS%20%2F%20Hostinger-orange?style=for-the-badge"/> </p>
+
+<p align="center">
+</p> <p align="center"> <img src="https://img.shields.io/badge/Hire%20Me-Available%20Now-success?style=for-the-badge&logo=github"/> </p>
