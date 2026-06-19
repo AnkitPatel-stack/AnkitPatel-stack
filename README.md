@@ -200,3 +200,20 @@ React, Node.js, Express, MongoDB, REST APIs
 > Currently actively interviewing for **Full Stack Developer**, **MERN Stack Engineer**, or **Backend Developer** roles in India / Remote. Reach out if you are looking for a dedicated engineer who builds production-ready software!
 
 ---
+---
+
+# 🏆 Achievements & Organizations
+- 🥇 **YOLO:** Proud recipient of the GitHub YOLO badge for swift and successful deployments.
+- 🏢 **Organization:** Active contributor at `@ALLThigns-Technologies-com`.
+
+---
+
+# ⚡ Fun Fact & Support
+- 💬 **Fun Fact:** Compilers don't lie, but comments sometimes do! 😉
+- ❤️ If you like my profile or projects, feel free to star my repositories!
+
+<br />
+
+<p align="center">
+  Crafted with 🔥 by Ankit Patel © 2026
+</p>
